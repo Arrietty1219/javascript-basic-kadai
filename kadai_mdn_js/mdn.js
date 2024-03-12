@@ -1,7 +1,7 @@
 // 定数を宣言する
 const today = new Date();
 
-// ymdを定義する
+// ymdを宣言する
 	const year = today.getFullYear();
 	const  month = today.getMonth() + 1;
 	const  day = today.getDate();
